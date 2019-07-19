@@ -1,8 +1,26 @@
 
 body {
     background: whitesmoke;
+    font-family: 'Russo One', sans-serif;
+    font-size: 15px;
 }
 
-#special {
-    background: yellow;
+li {
+    padding: 8px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+h1 {
+    font-size: 4.0em;
+    font-weight: bold;
+    text-align: center;
+    width: 50%;
+    border: 2px solid blue;
+}
+
+span {
+    font-size: 3.0em;
 }
